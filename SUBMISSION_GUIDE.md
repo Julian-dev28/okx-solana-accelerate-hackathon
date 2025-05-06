@@ -66,9 +66,8 @@ cp -r project-template/* submissions/your-project-name/
 ### Step 5: Add Your Project Files
 
 1. Fill out the `README.md` with your project details
-2. Complete the `TEAM.md` with information about your team
-3. Update `submission.yaml` with your project metadata
-4. Add any additional files needed (screenshots, code, etc.)
+2. Update `submission.yaml` with your project metadata
+3. Add any additional files needed (screenshots, code, etc.)
 
 ### Step 6: Commit and Push Your Changes
 
@@ -99,24 +98,19 @@ All submissions must include:
    - Technologies used
    - Setup and installation instructions
 
-2. **TEAM.md** - Team information
-   - Team name
-   - Team members with roles and contact info
-   - Team formation story
-
-3. **submission.yaml** - Project metadata
+2. **submission.yaml** - Project metadata
    - Project name, tagline, and track
    - Demo, repository, and video links
    - Team information
    - Technical details
 
-4. **Demo Video** (Required)
+3. **Demo Video** (Required)
    - Maximum 5 minutes in length
    - Demonstrate working functionality
    - Highlight OKX DEX API integration
    - Explain the problem and solution
 
-5. **Screenshots/Images** (Recommended)
+4. **Screenshots/Images** (Recommended)
    - User interface screenshots
    - Architecture diagrams
    - Any relevant visuals
